@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ting Yue 👋
 
-<!--
-**Tingyue0411/Tingyue0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business & Data Analytics | SQL | Python | BI
 
-Here are some ideas to get you started:
+I am a business and data analytics professional with extensive experience in industry research, business analysis, operations, and financial services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background combines business understanding with data-driven analysis. I am currently strengthening my hands-on analytics skills in SQL, Python, predictive modeling, and business intelligence.
+
+### 🔧 Skills
+
+- **Data Analysis:** SQL, Excel, Python
+- **Business Intelligence:** Power BI, Tableau
+- **Analytics:** KPI Analysis, Business Analysis, Market Analysis
+- **Predictive Modeling:** Logistic Regression, Decision Tree, Random Forest, SVM
+
+### 📊 Projects
+
+I am currently building this portfolio with selected analytics projects and case studies.
+
+Projects will be added here as they are completed.
